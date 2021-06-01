@@ -1,0 +1,76 @@
+{
+    "list": [
+       {
+         "id": "task1",
+         "description": "Task 1",
+         "type": "ITEM",
+         "isComplete": false,
+         "steps": [
+           {
+          "id": "stepA",
+         "description": "Step A",
+         "type": "SUBITEM",
+         "isComplete": false
+       },
+         {
+         "id": "stepB",
+         "description": "Step B",
+         "type": "SUBITEM",
+         "isComplete": false
+       },
+         {
+           "id": "stepC",
+         "description": "Step C",
+         "type": "SUBITEM",
+         "isComplete": false
+       }
+     ]
+       },
+       {
+         "id": "task2",
+         "description": "Task 2",
+         "type": "ITEM",
+         "isComplete": true,
+         "steps": [
+             {
+            "id": "stepA",
+           "description": "Step A",
+           "type": "SUBITEM",
+           "isComplete": true
+         },
+           {
+            "id": "stepB",
+           "description": "Step B",
+           "type": "SUBITEM",
+           "isComplete": true
+         },
+           {
+            "id": "stepC",
+           "description": "Step C",
+           "type": "SUBITEM",
+           "isComplete": true
+         }
+       ]
+       },
+       {
+         "id": "task3",
+         "description": "Task 3",
+         "type": "ITEM",
+         "isComplete": false,
+         "steps": [
+           {
+         "id": "stepA",
+         "description": "Step A",
+         "type": "SUBITEM",
+         "isComplete": true
+       },
+         {
+          "id": "stepB",
+         "description": "Step B",
+         "type": "SUBITEM",
+         "isComplete": false
+       }
+     ]
+       }
+   ]
+}

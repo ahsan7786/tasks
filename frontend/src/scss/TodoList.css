@@ -1,0 +1,10 @@
+.list-container {
+  /* background-color: brown; */
+  flex: 1;
+  overflow-y: auto;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}

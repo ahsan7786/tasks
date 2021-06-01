@@ -1,0 +1,12 @@
+.button-component {
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: #d8d9da;
+}
+
+.button-component:hover {
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: #d8d9da;
+  opacity: 0.7;
+}

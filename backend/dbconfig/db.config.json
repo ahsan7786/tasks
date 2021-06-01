@@ -1,0 +1,7 @@
+{
+  "username": "root",
+  "database": "todo",
+  "host": "127.0.0.1",
+  "password": "admin",
+  "dialect": "mysql"
+}

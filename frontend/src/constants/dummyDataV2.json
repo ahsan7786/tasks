@@ -1,0 +1,48 @@
+{
+  "list": [
+     {
+      "id": 307,
+      "title": "dummy task 1",
+      "status": false,
+      "createdAt": "2021-05-01T00:00:00.000Z",
+      "Tasks": []
+     },
+     {
+      "id": 308,
+      "title": "dummy task 2",
+      "status": false,
+      "createdAt": "2021-05-01T00:00:00.000Z",
+      "Tasks": [
+        {
+          "id": 65,
+          "title": "updated dummy subTask",
+          "status": false,
+          "createdAt": "2021-05-01T00:00:00.000Z",
+          "TodoId": 308
+        }
+      ]
+     },
+     {
+      "id": 309,
+      "title": "dummy task 3",
+      "status": false,
+      "createdAt": "2021-05-01T00:00:00.000Z",
+      "Tasks": []
+     },
+     {
+      "id": 310,
+      "title": "dummy task 4",
+      "status": true,
+      "createdAt": "2021-05-01T00:00:00.000Z",
+      "Tasks": [
+        {
+          "id": 66,
+          "title": "automated call for  sub task",
+          "status": true,
+          "createdAt": "2021-05-02T19:47:03.000Z",
+          "TodoId": 310
+        }
+      ]
+     }
+ ]
+}

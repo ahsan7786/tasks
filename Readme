@@ -1,0 +1,22 @@
+kindly follow the instructions
+
+1 backend code is placed in backend folder 
+    folder names are showing their semantic meaning for example controllers are placed in controllers folders
+    tests are placed in test folders
+    DAO are place in relavent folders
+    First run SQL file in using any tool or any copying command in command lines
+    After that you have to configure your database in db.config.json file
+    after that run command npm start 
+    For running test npm command is npm test which will also display coverage report
+
+
+2 frontend app is in frontend folder 
+    npm start will trigger the App initially it will show empty list after that you can and update its status in
+
+
+Important Note : 
+        Due to time limit havn't cover test cases of frontend code base I have covered all files in backend related stuff I hope you will get idea.
+        Next Thing i want to tell you that there is still alot of chances of improvments but those changes can be discused if you think i am cappable enough to join your team and
+
+        
+
